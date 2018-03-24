@@ -1,4 +1,4 @@
-# Algorithms FTW!
+# _Algorithms FTW!_
 
 This is an evolving draft of an algorithms textbook, tentatively entired _Algorithms FTW!_, provided here specifically to atract bug reports and other feedback before publication.  I expect to self-publish the textbook in late 2018.  Don't worry, an electronic version of the book will always be freely available.
 
