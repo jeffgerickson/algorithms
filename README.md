@@ -1,12 +1,12 @@
 # _Algorithms_
+## by [Jeff Erickson](http://jeffe.cs.illinois.edu)
 
-This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.
+This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.  Thanks for visiting!
 
-**To report an error, please [submit a pull request](https://github.com/jeffgerickson/algorithms/pulls).**
+**To report an error, please [submit a pull request](https://github.com/jeffgerickson/algorithms/pulls).**  
+* Before submitting, please check that your error hasn't already been fixed in the most recent revision.
 * For an error in the book, please include the chapter, section, and page numbers.
-* For an error in the lecture notes, please include the title and *a complete URL* of the note in question.  There are _lots_ of old revisions floating around the web, with inconsistent numbering.
-
-However, _before_ reporting an error, please check that it hasn't already been fixed in the most recent revision.
+* For an error in the lecture notes, please include the title and *a complete URL* of the note in question.  (There are _lots_ of old revisions floating around the web, with inconsistent titling and numbering, so just the title or the file name isn't enough.)
 
 While you're here, please feel free to download a complete copy of the most recent revision of the book.
 
