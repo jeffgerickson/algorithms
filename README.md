@@ -1,6 +1,4 @@
-# _Algorithms_
-## by [Jeff Erickson](http://jeffe.cs.illinois.edu)
----
+## _Algorithms_ by [Jeff Erickson](http://jeffe.cs.illinois.edu)
 
 This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.  Thanks for visiting!
 
