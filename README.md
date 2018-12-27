@@ -18,7 +18,7 @@ While you're here, please feel free to download a complete copy of the most rece
 
 The book contains only a small subset of my course materials; you can find hundreds more pages of lecture notes, lab handouts, and past homeworks and exams at  http://jeffe.cs.illinois.edu/teaching/algorithms, or at the mnemonic shortcut http://algorithms.wtf.  You can see the material in context at the web sites for my most recent offerings of [CS 374](https://courses.engr.illinois.edu/cs374/sp2018/A) and [CS 473](https://courses.engr.illinois.edu/cs473/sp2017) at Illinois.
 
-At some future date, I am likely to incporporate more (but defeinitely not all) of these lecture notes into a future edition.  (I haven't decided whether I'm going to call it a "director's cut" or an "extended dance remix".)  One step at a time.
+At some future date, I am likely to incorporate more (but definitely not all) of these lecture notes into a future edition.  (I haven't decided whether I'm going to call it a "director's cut" or an "extended dance remix".)  One step at a time.
 
 ---
 ### Copyright
