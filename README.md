@@ -11,7 +11,7 @@ This is a bug-reporting site for my _Algorithms_ textbook and other related cour
 
 Please also feel free to submit feature requests and other feedback.
 
-While you're here, please feel free to download a complete copy of the most recent revision of the book.
+While you're here, please feel free to download a complete copy of the most recent revision of the entire book or any of the individual chapters.  (The individual chapters are typeset separately, so page numbers are inconsistent with the book, and hyperlinks between chapters don’t work.)
 
 ---
 ### Additional Materials
