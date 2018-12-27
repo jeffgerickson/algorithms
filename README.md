@@ -2,10 +2,12 @@
 
 This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.  Thanks for visiting!
 
-**To report an error, please [submit a pull request](https://github.com/jeffgerickson/algorithms/pulls).**  
+**To report an error, please [post an issue](https://github.com/jeffgerickson/algorithms/issues).**  
 * Before submitting, please check that your error hasn't already been fixed in the most recent revision.
 * For an error in the book, please include the chapter, section, and page numbers.
-* For an error in the lecture notes, please include the title and *a complete URL* of the note in question.  (There are _lots_ of old revisions floating around the web, with inconsistent titling and numbering, so just the title or the file name may not be enough.)
+* For an error in the non-book lecture notes, please include the title and *the complete URL* of the note in question.  (There are _lots_ of old revisions floating around the web, with inconsistent titling and numbering, so just the title or the file name may not be enough.)
+* For an error in **this** semester's homework, labs, exams, or solutions, please post on the course's Piazza site for extra credit, **not** here.
+* For an error in a *past* semester's homework, labs, exams, or solutions, please post here, but again with the *the complete URL* of the work in question.
 
 Please also feel free to submit feature requests and other feedback.
 
