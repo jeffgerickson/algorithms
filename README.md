@@ -13,6 +13,8 @@ Please also feel free to submit feature requests and other feedback.
 
 While you're here, please feel free to download a complete copy of the most recent revision of the entire book or any of the individual chapters.  (The individual chapters are typeset separately, so page numbers are inconsistent with the book, and hyperlinks to other chapters don’t work.)
 
+A black and white electronic version of the entire manuscript is also available, which should more closely reflect the appearance of the printed volume.  I won’t update that quite as often.
+
 ---
 ### Additional Materials
 
