@@ -16,6 +16,13 @@ While you're here, please feel free to download a complete copy of the most rece
 A black and white electronic version of the entire manuscript is also available, which should more closely reflect the appearance of the printed volume.  I won’t update that quite as often.
 
 ---
+### Publication History
+
+The most up-to-date version of the book and individual chapters is in the top-level directory.  Archival snapshots of official releases (“editions” or “printings”) are in corresponding subdirectories.  See the [Errata](ERRATA.md) for a list of updates since the most recent official release.
+
+- **0th edition** (prepublication draft) — December 29, 2018
+
+---
 ### Additional Materials
 
 The book contains only a small subset of my course materials; you can find hundreds more pages of lecture notes, lab handouts, and past homeworks and exams at  http://jeffe.cs.illinois.edu/teaching/algorithms, or at the mnemonic shortcut http://algorithms.wtf.  You can see the material in context at the web sites for my most recent offerings of [CS 374](https://courses.engr.illinois.edu/cs374/sp2018/A) and [CS 473](https://courses.engr.illinois.edu/cs473/sp2017) at Illinois.
