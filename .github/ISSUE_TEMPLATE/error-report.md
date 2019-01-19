@@ -7,7 +7,12 @@ assignees: ''
 
 ---
 
-* Please verify that the error is present in the most recent revision before reporting
-* For errors in the book, please indicate the chapter and page number
-* For errors in the notes, please indicate the note title and page number
-* In both cases, please describe the bug in detail, and if possible, suggest a correction.
+**Please verify that the error is present in the most recent revision before reporting.**
+
+**Chapter number or note title:** [title]
+
+**Page number:** [page]
+
+**Error description:** [error]
+
+**Suggested fix (if any):** [fix]
