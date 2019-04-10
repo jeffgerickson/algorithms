@@ -1,5 +1,7 @@
 ## _Algorithms_ by [Jeff Erickson](http://jeffe.cs.illinois.edu)
 
+### **&frac12;th edition** — April 9, 2019
+
 This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.  Thanks for visiting!
 
 **To report an error, please [post an issue](https://github.com/jeffgerickson/algorithms/issues).**  
@@ -21,6 +23,7 @@ A black and white electronic version of the entire manuscript is also available,
 The most up-to-date version of the book and individual chapters is in the top-level directory.  Archival snapshots of official releases (“editions” or “printings”) are in corresponding subdirectories.  See the [Errata](ERRATA.md) for a list of updates since the most recent official release.
 
 - **0th edition** (prepublication draft) — December 29, 2018
+- **&frac12;th edition** (prepublication draft) — April 9, 2019
 
 ---
 ### Additional Materials
