@@ -6,7 +6,7 @@
 
 This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.  Thanks for visiting!
 
-**Thanks to everyone who reported bugs in the 0th and &frac12;th edition editions!**
+**Thanks to everyone who reported bugs in the 0th and &frac12;th editions!**
 
 **To report an error, please [post an issue](https://github.com/jeffgerickson/algorithms/issues).**  
 * Before submitting, please check that your error hasn't already been fixed in the most recent revision.
