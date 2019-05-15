@@ -2,9 +2,11 @@
 
 ### **&frac12;th edition** — April 9, 2019
 
+### **1st paperback edition** — frozen May 15, 2019 — available soon
+
 This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.  Thanks for visiting!
 
-**Thanks to everyone who reported bugs in the 0th edition!**
+**Thanks to everyone who reported bugs in the 0th and &frac12;th edition editions!**
 
 **To report an error, please [post an issue](https://github.com/jeffgerickson/algorithms/issues).**  
 * Before submitting, please check that your error hasn't already been fixed in the most recent revision.
@@ -26,6 +28,7 @@ The most up-to-date version of the book and individual chapters is in the top-le
 
 - **0th edition** (prepublication draft) — December 29, 2018
 - **&frac12;th edition** (prepublication draft) — April 9, 2019
+- **1st paperback edition** — manuscript forzen May 15, 2019
 
 ---
 ### Additional Materials
