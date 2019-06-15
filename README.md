@@ -1,8 +1,6 @@
 ## _Algorithms_ by [Jeff Erickson](http://jeffe.cs.illinois.edu)
 
-### **&frac12;th edition** — April 9, 2019
-
-### **1st paperback edition** — frozen May 15, 2019 — available soon
+### **1st paperback edition** — June 13, 2019 — Now available from [Amazon](https://www.amazon.com/dp/1792644833)
 
 This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.  Thanks for visiting!
 
@@ -28,7 +26,14 @@ The most up-to-date version of the book and individual chapters is in the top-le
 
 - **0th edition** (prepublication draft) — December 29, 2018
 - **&frac12;th edition** (prepublication draft) — April 9, 2019
-- **1st paperback edition** — manuscript forzen May 15, 2019
+- **1st paperback edition** — June 13, 2019 — Amazon links:
+	[US](https://www.amazon.com/dp/1792644833),
+	[UK](https://www.amazon.co.uk/dp/1792644833),
+	[DE](https://www.amazon.de/dp/1792644833),
+	[ES](https://www.amazon.es/dp/1792644833),
+	[FR](https://www.amazon.fr/dp/1792644833),
+	[IT](https://www.amazon.it/dp/1792644833),
+	[JP](https://www.amazon.co.jp/dp/1792644833)
 
 ---
 ### Additional Materials
