@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Chapters 2 and 3, pp. 96, 144, 145: Robert Sedgwick should read Robert Sedgewick. (issue #286)
