@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Chapter FFT, Exercise Question 1.A: "Describe an analyze and algorithm" should read "Describe and analyze an algorithm". (issue #120)
