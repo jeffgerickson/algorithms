@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Chapter 5, Section 5.5 (Data Structures), page 195: "despite is name" should read "despite its name". (issue #247)
