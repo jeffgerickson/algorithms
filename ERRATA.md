@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- NP-hardness section: using an hypothetical efficient algorithm should be using a hypothetical efficient algorithm.
