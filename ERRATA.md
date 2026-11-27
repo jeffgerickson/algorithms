@@ -6,3 +6,7 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+#### Lecture notes, note 11 (Path Compression), p. 4
+
+- "Using unthreaded tress" -> "Using unthreaded trees".
+
