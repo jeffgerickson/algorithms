@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Chapter 8, exercise 15(b), p. 301: "analyze and algorithm" should read "analyze an algorithm". (issue #310)
