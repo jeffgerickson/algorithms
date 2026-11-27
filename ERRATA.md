@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Approximation Algorithms, p. 4: 'For maximization problems, where we want to compute a solution whose cost is as small as possible' should read 'For minimization problems, where we want to compute a solution whose cost is as small as possible' (issue #305).
