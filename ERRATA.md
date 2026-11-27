@@ -6,3 +6,5 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Approximation Algorithms, p. 4: vertex color problem should be vertex cover problem.
+
