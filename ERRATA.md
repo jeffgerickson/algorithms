@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Section 12.5, p. 386: tattoo
