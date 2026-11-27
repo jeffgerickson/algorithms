@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Chapter 5, Proof of Lemma 5.1, p. 200: the reference "from s to u" should read "from s to v". (issue #235)
