@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Chapter 6.3, p. 233: the recursive call in TopSortDFS should be TopSortDFS(w, clock) rather than TopSortDFS(v, clock). (issue #256)
