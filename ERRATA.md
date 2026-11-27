@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Section 2.8, p. 92, recursive summation formula: the summand f[i] should read f[j]. (issue #288)
