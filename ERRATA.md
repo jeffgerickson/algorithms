@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Chapter 6, DFS notes, p. 4: remove the duplicated "assigns" in "this algorithm assigns assigns v.pre". (issue #281)
