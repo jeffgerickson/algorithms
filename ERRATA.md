@@ -6,3 +6,5 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+
+- Chapter 5, proof of WhateverFirstSearch(s), p. 200: "The prefix path s...u is shorter than the shortest path from s to u" should end "from s to v" (#268)
