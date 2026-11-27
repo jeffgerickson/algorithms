@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Chapter 12, section 12.2, p. 382: remove the duplicate "that" in "how to prove that that". (issue #311)
