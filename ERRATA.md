@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Chapter 10 intro, p. 328: "This one of..." should read "This is one of...". (issue #319)
