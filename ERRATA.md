@@ -6,3 +6,5 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+
+- Chapter 10.3, "The Maxflow-Mincut Theorem", p. 333: "So f is indeed feasible." should read "So f' is indeed feasible." (#275)
