@@ -6,3 +6,4 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Section 10.3, p. 333: 'So f is indeed feasible' should say that f' (the augmented flow) is feasible. (issue #291)
