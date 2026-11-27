@@ -6,3 +6,5 @@ This document lists all updates (whether from errors or otherwise) since the mos
 
 ### 1st paperback edition — June 13, 2019
 
+- Depth-First Search, p. 242: source component should be sink component.
+
